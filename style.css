@@ -6,3 +6,12 @@
     --preto: black;
     --destaque: #d8dfdf;
 }
+
+body{
+    background-color: var(--fundo);
+}
+
+footer{
+    position: fixed;
+    bottom: 0;
+}
