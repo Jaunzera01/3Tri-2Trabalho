@@ -19,3 +19,18 @@ footer{
     width: 100%;
     text-align: center;
 }
+
+#container{
+padding: 4rem;
+display: flex;
+flex-wrap: wrap;
+justify-content; 
+space-betwen;
+gap: 3rem
+
+}
+
+.conconteudo-cartao{
+
+    background-color: var(--cartao-frente);
+}
