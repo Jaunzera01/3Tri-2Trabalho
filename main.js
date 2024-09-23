@@ -22,6 +22,6 @@ function viracartao(){
     respostaVisivel = !respostaVisivel;
     cartao.classlist.tpggle('active', respostaVisivel);
 }
-cartao.addEventlistener('click', viracartao);
+cartao.addEventListener('click', viracartao);
 container.appendChild(cartao);
 }
