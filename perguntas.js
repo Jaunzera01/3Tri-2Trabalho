@@ -7,32 +7,32 @@ criaCartao(
 
 criaCartao(
     'Biologia',
-    'pergunta',
-    'resposta'
+    'Os seres do Filo Molusca apresentam um corpo. Como?',
+    'Pé, massa visceral, simetria bilateral e cabeça.'
 )
 
 criaCartao(
     'Química',
-    'pergunta',
-    'resposta'
+    'Qual combusível apresenta liberação de energia por ar?',
+    'Hidrogênio'
 )
 
 criaCartao(
     'Hitória',
-    'pergunta',
-    'resposta'
+    'O que deu início a guerra fria?',
+    'Dispua pela hegemonia global entre EUA e URSS'
 )
 
 criaCartao(
     'Hitória',
-    'pergunta',
-    'resposta'
+    'O que marcou o fim da guerra fria?',
+    'A que da do muro e berlim e a queda da União Soviética'
 )
 
 criaCartao(
     'Geografia',
-    'pergunta',
-    'resposta'
+    'Qual é o rio mais distante do mundo?',
+    'Rio Nilo'
 )
 
 criaCartao(
@@ -73,8 +73,8 @@ criaCartao(
 
 criaCartao(
     'Matemática',
-    'pergunta',
-    'resposta'
+    'Qual é a fórmula da equação do 2° grau?',
+    'E = ax² = bx c = 0'
 )
 
 criaCartao(
@@ -85,13 +85,13 @@ criaCartao(
 
 criaCartao(
     'Literatura',
-    'pergunta',
-    'resposta'
+    'Quem escreveu Don Quixote?',
+    'Foi Miguel de Ervantes'
 )
 
 criaCartao(
     'Geografia',
-    'pergunta',
+    'nta',
     'resposta'
 )
 
