@@ -79,8 +79,8 @@ criaCartao(
 
 criaCartao(
     'Hitória',
-    'pergunta',
-    'resposta'
+    'Quem eram os países do eixo?',
+    'Alemanha, Japão e Itália'
 )
 
 criaCartao(
