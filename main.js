@@ -20,7 +20,7 @@ let respostaVisivel = false;
 function viracartao(){
 
     respostaVisivel = !respostaVisivel;
-    cartao.classlist.tpggle('active', respostaVisivel);
+    cartao.classlist.toggle('active', respostaVisivel);
 }
 cartao.addEventListener('click', viracartao);
 container.appendChild(cartao);
