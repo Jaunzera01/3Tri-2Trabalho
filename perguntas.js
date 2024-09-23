@@ -114,7 +114,7 @@ criaCartao(
 )
 
 criaCartao(
-    'História',
-    'pergunta',
-    'resposta'
+    'Filosofia',
+    'Quem é o autor de A república?',
+    'Platão'
 )
