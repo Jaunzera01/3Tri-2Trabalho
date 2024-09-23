@@ -74,7 +74,7 @@ criaCartao(
 criaCartao(
     'Matemática',
     'Qual é a fórmula da equação do 2° grau?',
-    'E = ax² = bx c = 0'
+    'E = ax² + bx + c = 0'
 )
 
 criaCartao(
