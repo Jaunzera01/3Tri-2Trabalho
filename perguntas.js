@@ -37,38 +37,38 @@ criaCartao(
 
 criaCartao(
     'Química',
-    'pergunta',
-    'resposta'
+    'Elemento mais condutivo do mundo?',
+    'A prata '
 )
 
 criaCartao(
     'Hitória',
-    'pergunta',
-    'resposta'
+    'Começo da segunda guerra mundial?',
+    'de 1939 a 1945'
+)
+
+criaCartao(
+    'Matemática',
+    'Qual é a fórmula de Báskara?',
+    'B² -4ac'
 )
 
 criaCartao(
     'Hitória',
-    'pergunta',
-    'resposta'
+    'Quando foi instaurada a ditadura militar no Brasil?',
+    '1964 a 1985'
 )
 
 criaCartao(
     'Hitória',
-    'pergunta',
-    'resposta'
+    'Ideologia que idealizava os militares a derrubar a monarquia brasileira?',
+    'Positivismo'
 )
 
 criaCartao(
     'Hitória',
-    'pergunta',
-    'resposta'
-)
-
-criaCartao(
-    'Hitória',
-    'pergunta',
-    'resposta'
+    'Diferencial da república do Brasil do segundo reinado?',
+    'O manifesto republicano'
 )
 
 criaCartao(
