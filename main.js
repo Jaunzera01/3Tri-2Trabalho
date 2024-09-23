@@ -16,10 +16,6 @@ cartao.innerHTML = `
 </div>
 </div>
 `
-
-container.appendChild(cartao);
-}
-
 let respostaVisivel = false;
 function viracartao(){
 
@@ -27,4 +23,5 @@ function viracartao(){
     cartao.classlist.tpggle('active', respostaVisivel);
 }
 cartao.addEventlistener('click', viracartao);
-container.appendchild(cartao);
+container.appendChild(cartao);
+}
