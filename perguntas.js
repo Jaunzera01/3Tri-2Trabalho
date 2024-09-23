@@ -118,3 +118,9 @@ criaCartao(
     'Quem é o autor de A república?',
     'Platão'
 )
+
+criaCartao(
+    'Filosofia',
+    'Qual é o país com mais ilhas no mundo?',
+    'Suécia, '
+)

@@ -20,3 +20,11 @@ cartao.innerHTML = `
 container.appendChild(cartao);
 }
 
+let respostaVisivel = false;
+function viracartao(){
+
+    respostaVisivel = !respostaVisivel;
+    cartao.classlist.tpggle('active', respostaVisivel);
+}
+cartao.addEventlistener('cliok', viraCartao);
+container.appendchild(cartao);
