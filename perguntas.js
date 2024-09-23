@@ -91,26 +91,26 @@ criaCartao(
 
 criaCartao(
     'Geografia',
-    'nta',
-    'resposta'
+    'Qual é a maior floresta tropical do mundo?',
+    'A floresta Amazônica'
 )
 
 criaCartao(
     'História',
-    'pergunta',
-    'resposta'
+    'Quando foi a independência DO Brasil?',
+    'Foi em 1822'
 )
 
 criaCartao(
     'História',
-    'pergunta',
-    'resposta'
+    'Quem proclamou a independência do brasil?',
+    'Foi Don Pedro I'
 )
 
 criaCartao(
     'História',
-    'pergunta',
-    'resposta'
+    'Qual foi o estupim da 1° Guerra mundial?',
+    'o assassinato de Francisco Ferdinando'
 )
 
 criaCartao(
