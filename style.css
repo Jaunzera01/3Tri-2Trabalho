@@ -61,7 +61,7 @@ gap: 3rem
 
 }
 
-.cartao.active 
+.cartao.active,
 .conteudo-cartao{
     transform: rotateY(180deg);
 }
