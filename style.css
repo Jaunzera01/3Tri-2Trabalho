@@ -22,11 +22,11 @@ footer{
 }
 
 #container{
-padding: 4rem;
-display: flex;
-flex-wrap: wrap;
-justify-content: space-betwen;
-gap: 3rem;
+    padding: 4rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-betwen;
+    gap: 3rem;
 
 }
 
