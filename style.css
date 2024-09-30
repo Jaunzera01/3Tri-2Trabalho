@@ -74,5 +74,5 @@ gap: 3rem
 }
 
 .resposta-cartao{
-    transform: rotateY('180deg')
+    transform: rotateY('180deg');
 }
