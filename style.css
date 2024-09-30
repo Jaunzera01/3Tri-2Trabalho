@@ -50,6 +50,11 @@ gap: 3rem
     border-radius: 0.5rem;
 }
 
+.resposta-cartao p{
+    color: var(--cartao-verso);
+    font-weight: 700;
+}
+
 .conteudo-cartao p{
     margin-top: 1rem;
     padding: 4rem;
@@ -57,5 +62,17 @@ gap: 3rem
 }
 
 .cartao.active .conteudo-cartao{
+    transform: rotateY('180deg')
+}
+
+.pergunta-cartao,
+.resposta-cartao{
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.resposta-cartao{
     transform: rotateY('180deg')
 }
