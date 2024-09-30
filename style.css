@@ -73,6 +73,3 @@ gap: 3rem
     box-sizing: border-box;
 }
 
-.resposta-cartao{
-    transform: rotateY('180deg')
-}
