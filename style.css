@@ -56,16 +56,16 @@ footer{
     margin: 0.6rem;
 }
 
-.resposta-cartao p{
-    color: var(--cartao-verso);
-    font-weight: 700;
-}
-
 .conteudo-cartao p{
     margin-top: 1rem;
     padding: 2rem;
     margin-top: 4rem;
     font-size: 1.4vw;
+}
+
+.resposta-cartao p{
+    color: var(--cartao-verso);
+    font-weight: 700;
 }
 
 .cartao.active .conteudo-cartao{
