@@ -64,7 +64,7 @@ footer{
     font-size: 1.4vw;
 }
 
-.resposta-cartao p{
+.pergunta-resposta p{
     color: var(--cartao-verso);
     font-weight: 700;
 }
@@ -74,7 +74,7 @@ footer{
 }
 
 .pergunta-cartao,
-.resposta-cartao{
+.pergunta-resposta{
     backface-visibility: hidden;
     position: absolute;
     height: 100%;
@@ -82,7 +82,7 @@ footer{
     box-sizing: border-box;
 }
 
-.resposta-cartao{
+.pergunta-resposta{
     transform: rotateY(180deg);
     background-color: var(--destaque);
     border: 4px solid var(--cartao-verso);
