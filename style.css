@@ -25,7 +25,7 @@ footer{
     padding: 4rem;
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-betwen;
+    justify-content: space-between;
     gap: 3rem;
 
 }
@@ -43,6 +43,7 @@ footer{
     margin: 1rem;
     flex-grow: 1;
     flex-basis: calc(33% - 6rem);
+    height: 20rem;
 
 }
 
@@ -56,7 +57,7 @@ footer{
     margin: 0.6rem;
 }
 
-.conteudo-cartao p{
+.pergunta-cartao p{
     margin-top: 1rem;
     padding: 2rem;
     margin-top: 4rem;
