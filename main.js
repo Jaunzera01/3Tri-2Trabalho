@@ -11,7 +11,7 @@ cartao.innerHTML = `
     </div>
 
 <div class="pergunta-resposta">
-    <p>${resposta}<p>
+    <p>${resposta}</p>
     
 </div>
 </div>
